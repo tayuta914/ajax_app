@@ -1,3 +1,4 @@
 class ApplicationController < ActionController::Base
- def end
+  def end
+  end
 end
