@@ -50,7 +50,7 @@ group :test do
   gem 'webdrivers'
 end
 
-group :oroduction do
+group :production do
   gem 'rails_12factor'
 end
 
